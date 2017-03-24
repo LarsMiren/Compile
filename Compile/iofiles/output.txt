@@ -1,0 +1,32 @@
+ begin 
+KeyWord = begin
+ x 
+ for ident tx = x lval = 0
+lexeme = 263
+ do 
+KeyWord = do
+ alpha 
+ for ident tx = alpha lval = 1
+lexeme = 263
+ if 
+KeyWord = if
+lexeme = 40 '('
+ z 
+ for ident tx = z lval = 2
+lexeme = 263
+lexeme = 61 '='
+lexeme = 262
+lexeme = 41 ')'
+ end 
+KeyWord = end
+ while 
+KeyWord = while
+lexeme = 40 '('
+ x 
+ for ident tx = x lval = 0
+lexeme = 263
+lexeme = 60 '<'
+lexeme = 262
+lexeme = 41 ')'
+ end 
+KeyWord = end

@@ -1,0 +1,5 @@
+﻿begin x
+	do alpha
+		if (z = 4) end
+	while (x < 355)
+end
